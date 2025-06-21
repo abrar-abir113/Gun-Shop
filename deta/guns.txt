@@ -1,0 +1,12 @@
+7.62mm SA Type-56 Gen-2,long,175000.0
+7.62mm SA Type-56 Gen-3,long,200000.0
+7.62mm SKS DP,long,75000.0
+AMT AutoMag III,short,150000.0
+AMT AutoMag V,short,250000.0
+Astra A-100,short,999999.0
+Ballester–Molina,short,156900.0
+Beretta 21A Bobcat,short,80000.0
+Beretta 92,short,280000.0
+Winchester ~ U.S. Model 12 Trench Gun,long,607553.5
+STOEGER S3000-C .177 CAL,long,18105.09
+STOEGER S6000-E UNDERLEVER AIRGUN .22,long,27825.95

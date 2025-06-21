@@ -1,0 +1,3 @@
+wong,7.62mm SA Type-56 Gen-2,1,gun,175000.0
+wong,AMT AutoMag V,1,gun,250000.0
+wong,Beretta 92,1,gun,280000.0
